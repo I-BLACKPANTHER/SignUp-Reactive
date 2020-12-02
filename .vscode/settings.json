@@ -1,0 +1,27 @@
+{
+    "files.autoSave": "onWindowChange",
+    "editor.wordWrap": "on",
+    "editor.letterSpacing": 2,
+    "editor.lineHeight": 25,
+    "editor.formatOnSave": true,
+    "editor.quickSuggestionsDelay": 5,
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": false,
+        "strings": false,
+    },
+    "editor.suggest.maxVisibleSuggestions": 15,
+    "editor.suggest.shareSuggestSelections": true,
+    "files.insertFinalNewline": true,
+    "workbench.list.smoothScrolling": true,
+    "workbench.preferredDarkColorTheme": "One Dark Pro",
+    "workbench.colorTheme": "Atom One Dark",
+    "search.seedWithNearestWord": true,
+    "search.showLineNumbers": true,
+    "search.smartCase": true,
+    "diffEditor.codeLens": true,
+    "vsicons.presets.angular": true,
+    "vsicons.presets.tsOfficial": true,
+    "vsicons.presets.jsonOfficial": true,
+    "vsicons.presets.jsOfficial": true
+}
